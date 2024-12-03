@@ -1,0 +1,500 @@
+   14  ls
+   15  cd ../
+   16  ls
+   17  cd ../ ../
+   18  ls
+   19  cd ../ ../
+   20  cd ../
+   21  ls
+   22  cd share
+   23  ls
+   24  cd desktop
+   25  cd c:/
+   26  cd /c/Users/Sveta/Desktop
+   27  ls
+   28  cd work
+   29  git clone https://github.com/it-brains-ua/html-4.git
+   30  ls
+   31  cd desktop
+   32  cd work
+   33  git clone https://github.com/it-brains-ua/html-7.git
+   34  cd html7
+   35  ls
+   36  cd html-7
+   37  ls
+   38  св
+   39  cd desktop
+   40  cd work
+   41  mkdir leyout
+   42  cd desktop
+   43  cd work
+   44  git clone https://github.com/it-brains-ua/handlebars-1.git
+   45  cd desktop
+   46  cd work
+   47  git clone https://github.com/it-brains-ua/resume-pet.git
+   48  cd desktop
+   49  cd work
+   50  git clonehttps://github.com/it-brains-ua/resume-pet.git
+   51  git clone https://github.com/it-brains-ua/resume-pet.git
+   52  ls
+   53  cd desktop
+   54  cd work
+   55  git clone https://github.com/it-brains-ua/css.git
+   56  ді
+   57  ls
+   58  cd desktop
+   59  cd work \git clone https://github.com/it-brains-ua/css-1.git
+   60  cd work
+   61  git clone https://github.com/it-brains-ua/css-1.git
+   62  ls
+   63   dc desktop
+   64  cd desktop
+   65  cd work
+   66  git clone https://github.com/it-brains-ua/css-p-1.git
+   67  ls
+   68  cd desktop
+   69  cd work
+   70  git clone https://github.com/it-brains-ua/sass.git
+   71  git clone https://github.com/it-brains-ua/css-train-background.git
+   72  cd desktop
+   73  cd work
+   74  git clone https://github.com/it-brains-ua/css-train-background.git
+   75  pip instal ide50
+   76  pip3 instal ide50
+   77  pip3 install ide50
+   78  cd 
+   79  ln
+   80  ls
+   81  cd desktop
+   82  cd work
+   83  cd js
+   84  touch index.html
+   85  ln
+   86  ls
+   87  cd desktop
+   88  cd work
+   89  git clone https://github.com/it-brains-ua/js-train-1.git
+   90  cd desktop
+   91  cd work
+   92  git clone https://github.com/it-brains-ua/js-train-4.git
+   93  git remote remove origin
+   94  git remote add origin https://github.com/SvitlanaNecheta/js-train-4.git
+   95  cd desktop
+   96  cd work
+   97  git clone https://github.com/it-brains-ua/js-train-2.git
+   98  git remote
+   99  git remote remove remove origin
+  100  git remote remove origin
+  101  git remote
+  102  git remote add origin 
+  103  Sveta@Shantalia MINGW64 ~
+  104  $ cd desktop
+  105  Sveta@Shantalia MINGW64 ~/desktop
+  106  $ cd work
+  107  Sveta@Shantalia MINGW64 ~/desktop/work (master)
+  108  $ git clone https://github.com/it-brains-ua/js-train-2.git
+  109  Cloning into 'js-train-2'...
+  110  remote: Enumerating objects: 20, done.
+  111  remote: Counting objects: 100% (20/20), done.
+  112  remote: Compressing objects: 100% (17/17), done.
+  113  remote: Total 20 (delta 5), reused 15 (delta 2), pack-reused 0
+  114  Receiving objects: 100% (20/20), 15.02 KiB | 1.16 MiB/s, done.
+  115  Resolving deltas: 100% (5/5), done.
+  116  Sveta@Shantalia MINGW64 ~/desktop/work (master)
+  117  $ git remote
+  118  origin
+  119  Sveta@Shantalia MINGW64 ~/desktop/work (master)
+  120  $ git remote remove remove origin
+  121  usage: git remote remove <name>
+  122  Sveta@Shantalia MINGW64 ~/desktop/work (master)
+  123  $ git remote remove origin
+  124  Sveta@Shantalia MINGW64 ~/desktop/work (master)
+  125  $ git remote
+  126  Sveta@Shantalia MINGW64 ~/desktop/work (master)
+  127  $ git remote add origin https://github.com/SvitlanaNecheta/js-train-2.git
+  128  git remote add origin https://github.com/SvitlanaNecheta/js-train-2.git
+  129  cd desktop
+  130  sd work
+  131  cd work
+  132  git clone https://github.com/it-brains-ua/js-train-5.git
+  133  git clone https://github.com/it-brains-ua/js-train-3.git
+  134  git clone https://github.com/it-brains-ua/js-train-7.git
+  135  cd desktop
+  136  cd work
+  137  git clone https://github.com/it-brains-ua/js-train-7.git
+  138  cd desktop
+  139  cd work
+  140  git clone https://github.com/it-brains-ua/js-train-8.git
+  141  св вуылещз
+  142  cd desktop
+  143  cd word
+  144  cd work
+  145  git clone https://github.com/it-brains-ua/js-train-10.git
+  146  git clone [200~https://github.com/it-brains-ua/js-train-9.git~
+  147  git clone https://github.com/it-brains-ua/js-train-9.git
+  148  git clone https://github.com/it-brains-ua/js-train-11.git
+  149  git clone https://github.com/it-brains-ua/js-train-12.git
+  150  cd desctop
+  151  cd disktop
+  152  ln
+  153  ls
+  154  cd desktop
+  155  cd work
+  156  git clone https://github.com/it-brains-ua/js-train-12.git
+  157  cd desktop
+  158  cd work
+  159  git clone
+  160  git clone https://github.com/it-brains-ua/js-train-15.git
+  161  cd desktop
+  162  cd work
+  163  git clone https://github.com/it-brains-ua/js-train-14.git
+  164  cd desktop
+  165  cd work
+  166  git clone https://github.com/it-brains-ua/js-train-17.git
+  167  git clone https://github.com/it-brains-ua/js-train-13.git
+  168  cd desktop
+  169  cd work
+  170  git clone https://github.com/it-brains-ua/js-train-19.git
+  171  cd desktop
+  172  sd work
+  173  cd work
+  174  git clone https://github.com/it-brains-ua/js-train-18.git
+  175  св вуылещз
+  176  cd desktop
+  177  cd work
+  178  git clone https://github.com/it-brains-ua/js-train-21.git
+  179  cd desktop
+  180  sd work
+  181  cd work
+  182  git commit https://github.com/it-brains-ua/js-train22.git
+  183  git clone https://github.com/it-brains-ua/js-train22.git
+  184  cd desktop
+  185  cd work
+  186  git clone [200~https://github.com/it-brains-ua/js-train-23.git~
+  187  git clone https://github.com/it-brains-ua/js-train-23.git
+  188  git clone https://github.com/it-brains-ua/js-train-24.git
+  189    cd desktop
+  190  cd work
+  191  git clone https://github.com/it-brains-ua/js.git
+  192  cd javascript
+  193  git clone https://github.com/it-brains-ua/js.git
+  194  cd desktop
+  195  cd work
+  196  git clone https://github.com/it-brains-ua/js-train-25.git
+  197  cd desktop
+  198  cd work
+  199  cd practic_js
+  200  cd calculator
+  201  git clone https://github.com/it-brains-ua/js.git
+  202  cd nav
+  203  cd ..
+  204  cd nav
+  205  git clone https://github.com/it-brains-ua/js.git
+  206  cd desktop
+  207  cd word
+  208  cd work
+  209  cd practic-js
+  210  cd practic_js
+  211  cd to-do-list
+  212  git clone https://github.com/it-brains-ua/js.git
+  213  cd desktop
+  214  cd work
+  215  cd practic_js
+  216  cd js-slider-holder
+  217  git clone 
+  218  https://github.com/it-brains-ua/js.git
+  219  git clone https://github.com/it-brains-ua/js.git
+  220  cd ..
+  221  cd js-auth
+  222  git clone 
+  223  git clone https://github.com/it-brains-ua/js.git
+  224  cd desktop
+  225  cd work
+  226  cd practic_js
+  227  git clone https://github.com/it-brains-ua/fullstack-1.git
+  228  pyton
+  229  python
+  230  python
+  231  cd desktop
+  232  python
+  233  cd desktop
+  234  cd work
+  235  git commit https://github.com/it-brains-ua/fullstack-1.git
+  236  cd desklop
+  237  cd work
+  238  ln
+  239  ls
+  240  cd desktop
+  241  cd work
+  242  git clone https://github.com/it-brains-ua/fullstack-1.git
+  243  node -v
+  244  npm -v
+  245  create-react-app -v
+  246  npm i create-react-app -g
+  247  cd C:\Users\Sveta\Desktop
+  248  cd desktop
+  249  cd work
+  250  npm create-react-app my-dir-react
+  251  npx create-react-app my-dir-react
+  252  cd desktop
+  253  sd work
+  254  cd work
+  255  ls
+  256   cd ls
+  257  ls
+  258  cd HW-pithon-7
+  259  git clone https://github.com/SvitlanaNecheta/goit-core-hw-07.git
+  260  ls
+  261  cd HW-python-7
+  262  git clone https://github.com/SvitlanaNecheta/goit-core-hw-07.git
+  263  sl
+  264  ls
+  265  cd desktop
+  266  cd work
+  267  ls
+  268  ls
+  269  cd HW-python-8
+  270  git clone https://github.com/SvitlanaNecheta/goit-pycore-hw-08.git
+  271  cd desktop
+  272  cd work
+  273  cd HW_GoIT_HTML
+  274  git clone https://github.com/SvitlanaNecheta/goit-markup-hw-01.git
+  275  cd desktop
+  276  cd work
+  277  ls
+  278  cd WEB_HW
+  279  ls
+  280  cd app_pipenv
+  281  pip install --user pipenv
+  282  pipenv install Flask
+  283  nano ~/.bashrc
+  284  pipenv install Flask
+  285  where pipenv
+  286  Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
+  287  (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
+  288  cd desktop
+  289  cd work
+  290  sl
+  291  ls
+  292  cd WEB_HW
+  293  ls
+  294  cd app_pipenv
+  295  poetry add pendulum
+  296  pip install poetry
+  297  poetry --version
+  298  poetry config --list
+  299  poetry new app_poetry
+  300  cd app_poetry
+  301  ls
+  302  tree
+  303  cd .
+  304  cd ..
+  305  tree
+  306  cd app_poetry
+  307  tree
+  308  poetry tree
+  309  ls
+  310  clear
+  311  tree
+  312  ls
+  313  cd tests
+  314  ls
+  315  docker version
+  316  poetry version
+  317  clear
+  318  docker version
+  319  docker version
+  320  sudo systemctl status docker
+  321  sudo systemctl start docker
+  322  status docker
+  323  clear
+  324  docker --version
+  325  sudo systemctl status docker
+  326  winpty docker --version
+  327  winpty docker start
+  328   wsl --update.
+  329  docker pull image:tag
+  330  docker version
+  331  docker version
+  332  (Invoke-WebRequest -Uri https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py -UseBasicParsing).Content | python -
+  333  clear
+  334  clear
+  335  pip install poetry
+  336  poetry update
+  337  poetry update
+  338  ckear
+  339  clear
+  340  cd desktop
+  341  cd work
+  342  ls
+  343  poetry init HW-python-8
+  344  poetry install
+  345  pip poetry install
+  346  pip install poetry
+  347  curl -sSL https://install.python-poetry.org | python3 -
+  348  clear
+  349  python3 -m venv $VENV_PATH
+  350  $VENV_PATH/bin/pip install -U pip setuptools
+  351  $VENV_PATH/bin/pip install poetry
+  352  poetry new solution
+  353  ls
+  354  poetry new HW-python-7
+  355  clear
+  356  ls
+  357  poetry init HW-python-7
+  358  clear
+  359  ls
+  360  clear
+  361  poetry init
+  362  pip install --user pipenv
+  363  pipenv -v
+  364  pip install --user pipenv
+  365  pipenv --version
+  366  py app.py
+  367  pipenv exit
+  368  exit
+  369  docker run -it SvitlanaNecheta/poetry-web-docker/bin/sh
+  370  docker -v
+  371  cd desktop
+  372  ls
+  373  cd d:
+  374  ls
+  375  cd PYTHON_LEARNING
+  376  LS
+  377  web_poetry_app
+  378  cd web_poetry_app
+  379  docker run -it SvitlanaNecheta/poetry-web-docker
+  380  python -m http.server 8080
+  381  netstat -ano | findstr :8080
+  382  d:/PYTHON_LEARNING/HW_WEB_4/front-init/main.py
+  383  d:/PYTHON_LEARNING/HW_WEB_4/front-init/main.py
+  384  curl http://localhost:8001
+  385  netstat -ano | findstr :8001
+  386  sqlite3 --version
+  387  cd desktop
+  388  cd c
+  389  ls
+  390  postgresql://postgres:s4v0e1t6a@localhost:5432/test.bd
+  391  git status
+  392  man
+  393  help
+  394  help ls
+  395  man -k ls
+  396  help help ls
+  397  man ls
+  398  ls
+  399  clear
+  400  cd desctop
+  401  cd disktop
+  402  ls
+  403  cd desktop
+  404  ls
+  405  cd work
+  406  ls
+  407  cd ~
+  408  cd desktop
+  409  clear
+  410  ls
+  411  cd word
+  412  mkdir practic_6
+  413  ls
+  414  cd practic_6
+  415  cd ..
+  416  ls
+  417  ls
+  418  vim ddd.txt
+  419  nano ddd.txt
+  420  ls
+  421  cd desktop
+  422  ls
+  423  cd practic_6
+  424  mcdir git
+  425  mkdir git
+  426  cd git
+  427  git clone https://github.com/SvitlanaNecheta/HW_10.git
+  428  git status
+  429  ls
+  430  cd HW_10
+  431  git status
+  432  touch  text_ignore.txt 
+  433  nano text_ignore.txt
+  434  git status
+  435  git add
+  436  git status
+  437  git add text_ignore/txt
+  438  git status
+  439  git add '"git_ignore.txt
+  440  cd desktop
+  441  ls
+  442  cd practic_6
+  443  ls
+  444  cd git
+  445  ls
+  446  ls
+  447  cd HW_10
+  448  git status
+  449  git add 'text_ignore.txt'
+  450  git status
+  451  ls
+  452  nano .gitignore
+  453  gitstatus
+  454  git status
+  455  git add .gitignore
+  456  git status
+  457  git commit -m "add text_ignore.txt in .textignore"
+  458  touch main_test.txt
+  459  git add
+  460  git add .
+  461  git commit -m "added main_text.txt"
+  462  ls
+  463  git status
+  464  git branch
+  465  git checkout -b develop
+  466  git checkout develop
+  467  git branch
+  468  touch develop_test.txt
+  469  git add .
+  470  git commit -m "added develop_test.txt"
+  471  nano develop_test.txt
+  472  git add .
+  473  git status
+  474  git commit -m "changed develop_test.txt"
+  475  сd desktop
+  476  cd disktop
+  477  ls
+  478  cd desktop
+  479  ls
+  480  cd practic_6
+  481  ls
+  482  cd git
+  483  git status
+  484  ls
+  485  cd HW_10
+  486  git status
+  487    git log
+  488  checkout main
+  489  git checkout main
+  490  git merge develop
+  491  git log
+  492  cd desktop
+  493  cd practic_6
+  494  cd git
+  495  cr HW_10
+  496  cd HW_10
+  497  git status
+  498  git push command_list.csv
+  499  git logo
+  500  git log
+  501  св вуілещз
+  502  cd practic_6
+  503  cd desktop
+  504  cd practic_6
+  505  cd git
+  506  cd HW_10
+  507  git status
+  508  git branch
+  509  git pull origin develop
+  510  git pull develop
+  511  git merge develop
+  512  git log --oneline
+  513  history > command_list.csv
